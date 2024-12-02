@@ -1,0 +1,25 @@
+2024-12-02 16:07:37,053:INFO:------------------------
+2024-12-02 16:07:37,053:INFO:initialization.py: initialization completed
+2024-12-02 16:07:37,686:INFO:open_browser.py: opening chrome...
+2024-12-02 16:07:37,686:INFO:====== WebDriver manager ======
+2024-12-02 16:07:37,829:INFO:Get LATEST chromedriver version for google-chrome
+2024-12-02 16:07:37,954:INFO:Get LATEST chromedriver version for google-chrome
+2024-12-02 16:07:38,069:INFO:Get LATEST chromedriver version for google-chrome
+2024-12-02 16:07:38,351:INFO:WebDriver version 131.0.6778.85 selected
+2024-12-02 16:07:38,353:INFO:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.85/mac-arm64/chromedriver-mac-arm64.zip
+2024-12-02 16:07:38,353:INFO:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.85/mac-arm64/chromedriver-mac-arm64.zip
+2024-12-02 16:07:38,433:INFO:Driver downloading response is 200
+2024-12-02 16:07:39,321:INFO:Get LATEST chromedriver version for google-chrome
+2024-12-02 16:07:39,512:INFO:Driver has been saved in cache [/Users/victorklymok/.wdm/drivers/chromedriver/mac64/131.0.6778.85]
+2024-12-02 16:07:47,754:INFO:open_browser.py: chrome opening is completed
+2024-12-02 16:07:47,755:INFO:register_customer.py: filling registration form...
+2024-12-02 16:07:56,150:INFO:register_customer.py: logged in to qwe
+2024-12-02 16:07:56,150:INFO:register_customer.py: registration completed
+2024-12-02 16:07:56,150:INFO:open_account.py: opening new account...
+2024-12-02 16:08:06,510:INFO:open_account.py: account 14010 opened successfully
+2024-12-02 16:08:06,510:INFO:transfer_funds.py: transfering funds...
+2024-12-02 16:08:15,954:INFO:transfer_funds.py: transaction completed. 100$ was successfully sent to 14010
+2024-12-02 16:08:15,955:INFO:logout.py: logging out...
+2024-12-02 16:08:19,469:INFO:logout.py: customer logged out
+2024-12-02 16:08:19,469:INFO:close_browser.py: closing browser.
+2024-12-02 16:08:19,594:INFO:close_browser.py: process stopped, browser closed.
