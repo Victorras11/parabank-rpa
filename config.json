@@ -1,0 +1,23 @@
+{
+	"data": {
+		"paths": {
+			"LogFile": "logs/",
+			"Parabank": "https://parabank.parasoft.com/parabank/index.htm"
+		},
+		"Customer": {
+			"Name": "William",
+			"Lastname": "Cardenas",
+			"Address": "617 Cunningham Court",
+			"City": "Southfield",
+			"State": "MI",
+			"ZIPcode": "48075",
+			"Phone": "248-692-2523",
+			"SSN": "374-70-8976",
+			"Username": "Wcard123",
+			"Password": "qwerty"
+		},
+		"Funds": {
+			"Amount": "100"
+		}
+	}
+}
